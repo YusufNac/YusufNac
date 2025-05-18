@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Merhaba, ben Yusuf!
 
-<!--
-**YusufNac/YusufNac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
+💻 Java, Python ve C dillerinde projeler geliştiriyorum.  
+🚀 İlgi alanlarım: Mobil uygulamalar, yapay zeka ve gömülü sistemler.
 
-Here are some ideas to get you started:
+## 🧠 Kullandığım Teknolojiler
+- Java, Python, C, C++
+- SQLite, MySQL
+- Arduino, ESP32
+- Linux, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Bazı Projelerim
+- 📚 **Python + SQLite Kütüphane Otomasyonu: 
+
+## 📫 Bana Ulaşın
+- goren.yusufcan@ogr.ahievran.edu.tr

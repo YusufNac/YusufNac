@@ -11,7 +11,7 @@
 - Linux, Git & GitHub
 
 ## 📌 Bazı Projelerim
-- 📚 **Python + SQLite Kütüphane Otomasyonu: 
+- 📚 **Python + SQLite Kütüphane Otomasyonu: https://github.com/YusufNac/kutuphane-otomasyon
 
 ## 📫 Bana Ulaşın
 - goren.yusufcan@ogr.ahievran.edu.tr
